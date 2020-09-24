@@ -1,2 +1,18 @@
 # Computational Intelligence Toolkit
- This project contains a small toolkit that can use 6 optimization techniques: Evolutionary Algorithm, Evolution Strategy, Evolutionary Programming, Artificial Immune System, Particle Swarm Optimization and Neural Networks. The basic purpose of this toolkit is to present a comparison between different optimization techniques that are used: hence, for the time being, it's restricted to only 2-3 functions for the earlier 5 mentioned and only to a set of defined inputs in case of Neural Networks. The sample inputs for the neural network file are also attached with this project for the user's convenience.  This toolkit was designed in NetBeans 8.0.2 and uses the open source libraries JCommon and JFreeCharts, it's requested that you install the above mentioned for this toolkit to work efficiently. Although installation guide for JCommon and JFreeCharts libraries is also attached with this project, I still urge you to go to their official website and follow the steps mentioned their to avoid any inconvenience.
+Implemented the meta-heuristic algorithms and developed a learning toolkit using Java. The user can compare different algorithms and has the option to visualize the algorithms' performance using JFreeCharts and JFreeCommons. In the toolkit, the following algorithms have been implemented:
+1. Particle Swarm Optimization
+2. Artificial Immune System
+3. Evolutionary Algorithms
+4. Evolutionary Programming
+5. Evolutionary Strategies
+6. Firefly Algorithm
+7. BrainStorm Optimization
+8. Gravitational Search Algorithm
+9. Immune Gravitational Inspired Optimization Algorithm
+10. Neural Networks
+
+The algorithms can be compared using four different functions:
+1. Rosenbrock Function
+2. Rastrigin Function
+3. Six-hump Function
+4. Himmelblau's Function
